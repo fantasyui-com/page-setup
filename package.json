@@ -1,6 +1,6 @@
 {
   "name": "page-setup",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "A sample app demonstrates printing APIs usage.",
   "main": "main.js",
   "scripts": {
